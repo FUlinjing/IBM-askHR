@@ -79,7 +79,7 @@ In this lab we will build an HR agent in watsonx Orchestrate, leveraging tools a
    
    <img width="1000" alt="image" src="hands-on-lab-assets/step_7_v3.png">
      
-1. Download the [Employee Benefits.pdf](/usecases/ask-hr/assets/Employee-Benefits.pdf) onto your system, then upload the file here.
+1. Download the [Employee Benefits.pdf](/assets/Employee-Benefits.pdf) onto your system, then upload the file here.
    Click on **Next**.
 
    <img width="1000" alt="image" src="hands-on-lab-assets/step_8_v3.png">
